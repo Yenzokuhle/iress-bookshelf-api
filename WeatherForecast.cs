@@ -1,7 +1,6 @@
 namespace Iress_API_bookshelf
 {
 
-    //firsts commit comment
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
