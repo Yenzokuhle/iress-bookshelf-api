@@ -1,0 +1,6 @@
+@Iress_API_bookshelf_HostAddress = http://localhost:5216
+
+GET {{Iress_API_bookshelf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
