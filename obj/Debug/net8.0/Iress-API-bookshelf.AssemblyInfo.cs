@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iress-API-bookshelf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a9df189076ffd875aa1023c30897935ddbf2f57")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iress-API-bookshelf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iress-API-bookshelf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
